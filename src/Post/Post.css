@@ -1,0 +1,16 @@
+#container {
+	margin: auto;
+	position: relative;
+	border: 1px solid black;
+	width: 40%;
+	border-radius: 10px;
+	background-color: #ddd;
+}
+
+#title {
+	font-family: "Roboto";
+}
+
+#text {
+	font-family: Roboto;
+}
